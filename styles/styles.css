@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 /* Reset defaults for consistency */
 * {
     margin: 0;
