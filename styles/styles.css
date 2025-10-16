@@ -95,3 +95,8 @@ footer img {
         height: 45px;
     }
 }
+.logo {
+    width: 350px;
+    height: auto;
+    margin:  auto;
+}
